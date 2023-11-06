@@ -11,6 +11,6 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
   },
-  "viewportWidth": 1366, // Ширина экрана ноутбука
-  "viewportHeight": 768 // Высота экрана ноутбука
+  viewportWidth: 375, // Ширина мобильного экрана
+  viewportHeight: 667, // Высота мобильного экрана
 });
